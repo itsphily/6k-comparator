@@ -1,0 +1,4 @@
+python-dotenv
+sec-api
+requests
+beautifulsoup4 
